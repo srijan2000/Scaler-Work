@@ -1,6 +1,6 @@
 package com.srijan;
 
-public class print1toN {
+public class Print1toN {
     public static void main(String[] args) {
         printrev(5);
 
