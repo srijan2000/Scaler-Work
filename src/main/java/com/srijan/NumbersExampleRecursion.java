@@ -1,6 +1,8 @@
 package com.srijan;
 
-public class NumbersExample {
+public class NumbersExampleRecursion {
+    // when a function finishes executing, it is removed from stack and the flow of program is restored to where that function was called
+
     public static void main(String[] args) {
         //write a function that takes in a number and prints it
         //print first 5 number : 1 2 3 4 5
