@@ -32,9 +32,9 @@ public class Reverse {
         rev1(1244);
         System.out.println(sum);
     }*/
-  static void rev(int n){
+  static int  rev(int n){
       int digits = (int)(Math.log10(n) +1);
-      System.out.println(helper(n, digits));
+     return helper(n, digits);
 
   }
    static int helper(int n, int digits){
@@ -46,7 +46,7 @@ public class Reverse {
   }
 
     public static void main(String[] args) {
-      rev(1234);
+        System.out.println(rev(1234));
 
     }
 
