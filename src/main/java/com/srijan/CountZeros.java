@@ -14,6 +14,6 @@ public class CountZeros {
     }
 
     public static void main(String[] args) {
-        System.out.println(count(8000900));
+        System.out.println(count(30240));
     }
 }
