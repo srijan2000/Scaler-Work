@@ -1,4 +1,4 @@
-package com.srijan;
+package com.srijan.Recurssion;
 
 public class SumOfDigits {
     public static void main(String[] args) {

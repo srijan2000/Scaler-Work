@@ -1,4 +1,4 @@
-package com.srijan;
+package com.srijan.Recurssion;
 
 public class Palindrome {
     static int rev(int n){

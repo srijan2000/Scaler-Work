@@ -1,4 +1,4 @@
-package com.srijan;
+package com.srijan.Recurssion;
 
 public class NumbersExample {
     // when a function finishes executing, it is removed from stack and the flow of program is restored to where that function was called
